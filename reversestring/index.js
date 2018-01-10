@@ -5,6 +5,10 @@
 // reverse('mobil') === 'libom'
 // reverse('Hello World!') === '!dlroW elloH'
 
-function reverse(str) {}
+function reverse(str) {
+    const arr = str.split('');
+    arr.reverse();
+    return arr.join('');
+}
 
-module.exports = reverse();
+module.exports = reverse;
