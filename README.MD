@@ -13,16 +13,24 @@ https://github.com/irhamputra/algo-learning.git
 cd algo-learning
 ```
 
-2. Installing JEST for testing
+2. Install JEST
 ```
 npm install -g jest
 ```
 
-3. Starting JEST
+3. Start JEST
 ```
 jest {dir}/test.js --watch
 example
 jest reversestring/test.js --watch
+```
+
+4. Start answering the question in index.js
+```
+function reverse(str){
+// Tulis jawaban kamu disini
+
+}
 ```
 
 Hasil test lulus atau tidaknya akan muncul di terminal. Selamat belajar!
