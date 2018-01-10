@@ -8,4 +8,4 @@
 
 function reverseInt() {}
 
-module.exports = reverseInt()
+module.exports = reverseInt;
