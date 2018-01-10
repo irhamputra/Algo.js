@@ -10,5 +10,5 @@ test('Finds the most frequently used char', () => {
 });
 
 test('Works with numbers in the string', () => {
-   expect(maxChar('ab1c1d1e1f11gh11')).toEqual('1');
+   expect(maxChar('ab1c1d1e1f11g1h11')).toEqual('1');
 });
