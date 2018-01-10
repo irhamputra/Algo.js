@@ -2,11 +2,15 @@
 
 Kumpulan soal-soal latihan algoritma dasar dengan testing JEST
 
+#### prerequisite
+- Basic understanding javascript
+
 ### Getting Started
+
 1. Clone this repo
 ```
-https://github.com/irhamputra/algo-training.git
-cd algo-training
+https://github.com/irhamputra/algo-learning.git
+cd algo-learning
 ```
 
 2. Installing JEST for testing
