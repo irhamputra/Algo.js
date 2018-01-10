@@ -21,6 +21,6 @@ example
 jest reversestring/test.js --watch
 ```
 
-Hasil jawaban dari soal akan muncul di terminal. Selamat belajar!
+Hasil test lulus atau tidaknya akan muncul di terminal. Selamat belajar!
 
 Repo ini akan selalu update dengan soal-soal terbaru dari beberapa developer handal
