@@ -1,0 +1,19 @@
+{
+  "name": "algo-training",
+  "version": "1.0.0",
+  "description": "basic algo question",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irhamputra/algo-training.git"
+  },
+  "author": "Muhamad Irham Prasetyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irhamputra/algo-training/issues"
+  },
+  "homepage": "https://github.com/irhamputra/algo-training#readme"
+}
