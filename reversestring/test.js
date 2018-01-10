@@ -4,10 +4,10 @@ test('Reverse function exists', () => {
     expect(reverse).toBeDefined();
 });
 
-test('Reverse function exists', () => {
+test('Reverse reverses a string', () => {
     expect(reverse('abcdefghij')).toEqual('jihgfedcba');
 });
 
-test('Reverse function exists', () => {
+test('Reverse reverses a string', () => {
     expect(reverse('abcdefghij     ')).toEqual('     jihgfedcba');
 });
