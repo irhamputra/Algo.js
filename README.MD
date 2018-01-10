@@ -1,6 +1,6 @@
 # Algorithm Training
 
-Kumpulan soal-soal latihan basic algoritma dengan testing JEST
+Kumpulan soal-soal latihan algoritma dasar dengan testing JEST
 
 ### Getting Started
 1. Clone this repo
