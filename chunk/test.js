@@ -11,4 +11,4 @@ test('chunk divides an array of 10 elements with chunk size 2', () => {
     expect(chunked).toEqual([[1, 2], [3, 4], [5, 6], [7, 8], [9, 10]]);
 });
 
-// TODO: add more question down below
+// TODO: add more testing down below
