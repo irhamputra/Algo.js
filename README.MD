@@ -5,6 +5,31 @@ Kumpulan soal-soal latihan algoritma dasar dengan testing JEST
 #### prerequisite
 - Basic understanding javascript
 
+### Content
+1. Reverse String
+2. Revever Int
+3. Max Characters (Recurring The Characters)
+4. Chunk Array
+5. The Classic FizzBuzz
+6. Fibonacci
+7. Palindrome
+
+#### Coming Soon
+1. Anagrams
+2. Sentence Capitalization
+3. Printing Steps
+4. Pyramid
+5. Find The Vowels
+6. Matrix Spiral
+7. Runtime Complexity
+9. Weaving
+10. Stack Data Structure
+11. Circular
+13. Binary Search Trees (BST)
+14. Level Width
+15. Find Midpoint
+16. The Queue Data Structure
+
 ### Getting Started
 
 1. Clone this repo
