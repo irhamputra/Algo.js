@@ -1,3 +1,6 @@
-/**
- * Created by MacbookPro on 1/11/18.
- */
+// -- Petunjuk Soal
+//
+
+function fib(n) {}
+
+module.exports = fib;
