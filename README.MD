@@ -1,4 +1,6 @@
-# Algorithm Training
+![logo](https://user-images.githubusercontent.com/22166728/34822110-182bce56-f6c6-11e7-9945-9a076ba14780.png)
+
+### Algorithm Javascript Training
 
 Kumpulan soal-soal latihan algoritma dasar dengan testing JEST
 
